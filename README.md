@@ -1,4 +1,4 @@
-# IDXPartners_CreditLoan_Predictions
+# IDXPartners CreditLoan Predictions Internship Project
 
 ## Problem Statement:
 Credit risk is a risk that must be borne by a lending institution to an individual or agency whose own risk is the non-payment of principal and interest on the loan, resulting in various kinds of losses, such as disruption of cash flow for lenders and increasing collection costs.
